@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="50%"
+        android:id="@+id/opacity50"/>
+    <item android:title="75%"
+        android:id="@+id/opacity75"/>
+    <item android:title="100%"
+        android:id="@+id/opacity100"/>
+</menu>
