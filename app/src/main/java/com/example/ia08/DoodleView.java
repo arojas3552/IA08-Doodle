@@ -143,4 +143,6 @@ public class DoodleView extends View {
         return true;
     }
 
+    public Bitmap save() { return bitmap;
+    }
 }

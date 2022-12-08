@@ -78,6 +78,22 @@
             android:onClick="clear"
             app:srcCompat="@drawable/clear" />
 
+        <ImageButton
+            android:id="@+id/load"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="load"
+            app:srcCompat="@drawable/load" />
+
+        <ImageButton
+            android:id="@+id/save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="save"
+            app:srcCompat="@drawable/save" />
+
     </LinearLayout>
 
     <com.example.ia08.DoodleView
